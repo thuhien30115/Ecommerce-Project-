@@ -1,8 +1,9 @@
 # Ecommerce-Project-
 ## Use SQL to answer questions in Ecommerce:
-- Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)?	
 
-- Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC?
+-Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)?	
+
+-Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC?
   
 -Revenue by traffic source by week, by month in June 2017?
 
